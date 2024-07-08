@@ -1,0 +1,21 @@
+.address-selector {
+  max-width: 1400px;
+  margin: auto;
+  display: flex;
+  gap: 2rem;
+  align-items: start;
+}
+
+.pickup-address-confirm-btn {
+  background-color: rgb(0, 134,79);
+  color: rgb(214, 214, 214);
+  border: none;
+  border-radius: 0;
+  padding: 1rem;
+  margin-block: 1rem;
+  transition: all 250ms;
+}
+
+.pickup-address-confirm-btn:hover {
+  color: rgb(255, 254, 254);
+}
